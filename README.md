@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/NITESHDE/NITESHDE/blob/main/big-data-sign-banner-infografia-icono-web-plana_35632-108.jpg)
 <h1 align="center">Hi 👋, I'm Nitesh Bhagat</h1>
 <h3 align="center">"From Gears to Data: Transitioning from Mechanical Engineer to Data Engineer in the IT Industry"</h3>
 
